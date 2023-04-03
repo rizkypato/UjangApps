@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UjangApps</string>
+    <string name="nama_ujang">Ky yap-yap</string>
+
+    <string-array name="Kelas">
+        <item>Select</item>
+        <item>Ekonomi</item>
+        <item>Bisnis</item>
+        <item>Aksekutif</item>
+    </string-array>
+
+    <string-array name="Penumpang">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="Bayi">
+        <item>Select</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string name="gender_L">Laki-Laki</string>
+    <string name="gender_P">Perempuan</string>
+
+</resources>
